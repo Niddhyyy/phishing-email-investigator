@@ -1,0 +1,20 @@
+Received: from mail.example.com (mail.example.com [198.51.100.25]) by mx.example.net
+From: IT Support <support@example.com>
+To: employee@example.com
+Reply-To: verify-account@example.net
+Subject: Urgent: Account Verification Required
+Date: Thu, 12 Nov 2026 10:30:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Employee,
+
+Your account requires verification.
+
+Please visit the following link:
+https://login.example.net/verify
+
+If you do not verify your account, access may be restricted.
+
+Regards,
+IT Support Team

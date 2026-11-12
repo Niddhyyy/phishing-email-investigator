@@ -1,0 +1,8 @@
+type,value
+URL,https://login.example.net/verify
+IP,198.51.100.25
+DOMAIN,mail.example.com
+DOMAIN,mx.example.net
+DOMAIN,example.com
+DOMAIN,example.net
+DOMAIN,login.example.net

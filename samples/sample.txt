@@ -1,0 +1,19 @@
+Investigation Sample 001
+
+Suspicious URL:
+https://login.example.com/account
+
+Additional URL:
+http://192.0.2.10/login
+
+Observed domain:
+security-check.example
+
+Observed IP:
+198.51.100.25
+
+File MD5:
+d41d8cd98f00b204e9800998ecf8427e
+
+File SHA256:
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855

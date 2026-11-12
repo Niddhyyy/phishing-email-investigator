@@ -1,0 +1,30 @@
+[
+    {
+        "type": "URL",
+        "value": "https://login.example.net/verify"
+    },
+    {
+        "type": "IP",
+        "value": "198.51.100.25"
+    },
+    {
+        "type": "DOMAIN",
+        "value": "mail.example.com"
+    },
+    {
+        "type": "DOMAIN",
+        "value": "mx.example.net"
+    },
+    {
+        "type": "DOMAIN",
+        "value": "example.com"
+    },
+    {
+        "type": "DOMAIN",
+        "value": "example.net"
+    },
+    {
+        "type": "DOMAIN",
+        "value": "login.example.net"
+    }
+]
